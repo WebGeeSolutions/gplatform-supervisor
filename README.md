@@ -1,5 +1,5 @@
 
-# PHP 8.1 Laravel Worker Docker Container with GeePlatform
+# PHP 8.1 Laravel Worker Docker Container with WebGee Cloud Platform
 
 This repository contains a Docker setup for running a Laravel queue worker using PHP 8.1 with common extensions. The container uses Supervisor to manage the queue worker process.
 
@@ -22,7 +22,7 @@ First, clone this repository to your local machine:
 
 ```sh
 git clone https://github.com/WebGeeSolutions/gplatform-supervisor
-cd your-repo
+cd gplatform-supervisor
 ```
 
 ### 2. Dockerfile
